@@ -31,7 +31,7 @@ This MVC web app will allow the user to add Stylists and Clients to a database a
 ```json
 {
   "ConnectionStrings": {
-      "DefaultConnection": "Server=localhost;Port=3306;database=cassandra_copp;uid=root;pwd=YourPassword;"
+      "DefaultConnection": "Server=localhost;Port=3306;database=kevin_funez;uid=root;pwd=YourPassword;"
   }
 }
 ```
